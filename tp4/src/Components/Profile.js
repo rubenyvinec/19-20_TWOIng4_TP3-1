@@ -3,10 +3,10 @@
 import React, {Component} from 'react';
 
 const style = [
-    {width: '35%', height: '45%', position: "fixed", top: "45%", left: "50%",  transform: "translate(-50%, -50%)", backgroundColor: 'white', paddingLeft: 20,border: '2px solid black'},
-    {width: '35%', height: '45%', position: "fixed", top: "45%", left: "50%",  transform: "translate(-50%, -50%)", backgroundColor: 'blue', paddingLeft: 20,border: '2px solid black'},
-    {width: '35%', height: '45%', position: "fixed", top: "45%", left: "50%",  transform: "translate(-50%, -50%)", backgroundColor: 'yellow', paddingLeft: 20,border: '2px solid black'},
-    {width: '35%', height: '45%', position: "fixed", top: "45%", left: "50%",  transform: "translate(-50%, -50%)", backgroundColor: 'green', paddingLeft: 20,border: '2px solid black'}]
+    {width: '35%', height: '40%', position: "fixed", top: "45%", left: "50%",  transform: "translate(-50%, -50%)", backgroundColor: 'white', paddingLeft: 20,border: '2px solid black'},
+    {width: '35%', height: '40%', position: "fixed", top: "45%", left: "50%",  transform: "translate(-50%, -50%)", backgroundColor: 'blue', paddingLeft: 20,border: '2px solid black'},
+    {width: '35%', height: '40%', position: "fixed", top: "45%", left: "50%",  transform: "translate(-50%, -50%)", backgroundColor: 'yellow', paddingLeft: 20,border: '2px solid black'},
+    {width: '35%', height: '40%', position: "fixed", top: "45%", left: "50%",  transform: "translate(-50%, -50%)", backgroundColor: 'green', paddingLeft: 20,border: '2px solid black'}]
 
 export default class Profile extends Component {
     constructor(props){
